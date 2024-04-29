@@ -1,2 +1,2 @@
 # CRUD-
-CRUD criado com MySQL e JAVA
+CRUD sobre um banco ficticio, feito com MySQL e JAVA
